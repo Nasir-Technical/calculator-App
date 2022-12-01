@@ -1,0 +1,10 @@
+button{
+    width: 80px;
+    height: 80px;
+    border-radius: 9px;
+}
+.mainBox{
+    width: 382px;
+    margin: auto;
+    gap: 10px;
+}
